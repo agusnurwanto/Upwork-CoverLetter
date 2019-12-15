@@ -46,3 +46,27 @@ I have learned about it. Try install and setting theme.
 skype: agus.nurwanto
 site: http://agus.pondokprogrammer.com
 github: https://github.com/agusnurwanto/
+
+- Tell us about your experience with WordPress, and HTML coding.
+
+I'm create custom wordpress theme for social media, you can check in https://apppursu.it
+Develop many plugin wordpress you can check in my github account https://github.com/agusnurwanto/
+I have 6 year experience in wordpress developer
+
+- What part of this project most appeals to you?
+
+•	Proficiency in WordPress page building
+•	Creating content in WordPress via templates and custom HTML
+I can create custom theme, plugin and HTML post or page
+
+- Which of the required job skills do you feel you are strongest at?
+
+Convert design to HTML and create custom plugin
+
+- Which part of this project do you think will take the most time?
+
+Create content of website with good SEO qulification
+
+What is your experience with graphic Design and SEO?
+
+- I'm search inspiration of graphic design from online site and copy conten format from site with good SEO on google result
