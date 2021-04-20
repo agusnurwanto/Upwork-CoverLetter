@@ -23,6 +23,15 @@ Hire me, and your satisfaction is guaranteed :)
 
 =======================================================
 
+Hi,
+
+I have same issue on my previouse project and maybe i can help you with same way to fix it.
+
+Thanks,
+Agus
+
+=======================================================
+
 
 - If you are using GIT and try to push a commit but you have conflicts, explain the steps that you would follow to resolve the conflict and push successfully?
 
