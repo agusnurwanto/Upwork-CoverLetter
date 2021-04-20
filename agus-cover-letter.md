@@ -41,6 +41,15 @@ You can check my previous project on: https://github.com/agusnurwanto
 Thanks,
 Agus
 
+Yes, you can check my repository on my github account: 
+- https://github.com/agusnurwanto/sipd-chrome-extension
+- https://github.com/agusnurwanto/sipd-penatahusahaan-chrome-extension
+- https://github.com/agusnurwanto/flipISBN
+- https://github.com/agusnurwanto/vat-ebay-web-scrapping
+- https://github.com/agusnurwanto/isbntool
+- https://github.com/agusnurwanto/fulton-web-scraper
+- https://github.com/agusnurwanto/ISBNtoLink
+
 =======================================================
 
 
