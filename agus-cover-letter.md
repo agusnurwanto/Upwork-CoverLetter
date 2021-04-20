@@ -30,6 +30,17 @@ I have same issue on my previouse project and maybe i can help you with same way
 Thanks,
 Agus
 
+
+=======================================================
+
+Hi,
+
+I have experience on developing chrome extension more than 3 year and i hope can help you to build scrapping chrome extension.
+You can check my previous project on: https://github.com/agusnurwanto
+
+Thanks,
+Agus
+
 =======================================================
 
 
